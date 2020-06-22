@@ -1,2 +1,7 @@
 # Math.Pythagoras
-Adds pythagoras (documented) to the JS Math object.
+
+Adds Pythagoras (documented) to the JS Math object.
+
+## Notes
+
+- Use prettier

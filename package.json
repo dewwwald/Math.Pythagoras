@@ -1,0 +1,22 @@
+{
+  "name": "math.pythagoras",
+  "version": "1.0.0",
+  "description": "Adds Pythagoras (documented) to the JS Math object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewwwald/Math.Pythagoras.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dewwwald/Math.Pythagoras/issues"
+  },
+  "homepage": "https://github.com/dewwwald/Math.Pythagoras#readme",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}
